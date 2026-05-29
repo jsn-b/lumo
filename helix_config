@@ -3,7 +3,7 @@
   "versionString": "1.0.1",
   "releaseMonth": "June 2026",
   "graceDeadlineText": "10th June, 2026",
-  "gracePeriodMillis": 259200000, 
+  "gracePeriodMillis": 0, 
   "sha256": "REPLACE_WITH_ACTUAL_SHA256_HASH_OF_YOUR_APK",
   "updateUrl": "https://github.com/your-username/your-repo/releases/download/v1.0.1/lumo-release.apk",
   "changelog": {
