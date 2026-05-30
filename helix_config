@@ -1,15 +1,13 @@
 {
   "versionCode": 2,
   "versionString": "1.0.1",
-  "releaseMonth": "June 2026",
-  "graceDeadlineText": "10th June, 2026",
+  "releaseMonth": "May 2026",
+  "graceDeadlineText": "31st May, 2026",
   "gracePeriodMillis": 0, 
-  "sha256": "REPLACE_WITH_ACTUAL_SHA256_HASH_OF_YOUR_APK",
-  "updateUrl": "https://github.com/your-username/your-repo/releases/download/v1.0.1/lumo-release.apk",
+  "sha256": "0e29eef8ad4298a0b23bb43ce53106e88cbfdb3868fed538b544db67a5df7236",
+  "updateUrl": "https://github.com/jsn-b/lumo/releases/download/v1.0.1/lumo_release_1.0.1.apk",
   "changelog": {
-    "1": "Added robust global Firebase sync to save battery life.",
-    "2": "Introduced secure network time and captive portal checks.",
-    "3": "Upgraded SO Performance UI with dynamic charting.",
-    "4": "Integrated Google Sign-In with automated account provisioning."
+    "1": "Addressed inconsistencies in SO Metrics.",
+    "2": "Revamped UI"
   }
 }
