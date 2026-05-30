@@ -1,13 +1,14 @@
 {
   "versionCode": 5,
-  "versionString": "1.0.0",
+  "versionString": "1.1.0",
   "releaseMonth": "May 2026",
   "graceDeadlineText": "31st May, 2026",
   "gracePeriodMillis": 0, 
-  "sha256": "098ac70943ee9626d69af2163f69c053b81a39e1a835b42574b0adc1f5d37166",
-  "updateUrl": "https://github.com/jsn-b/lumo/releases/download/v1.0.0/app-release.apk",
+  "sha256": "22a6f36a9b96670cb1ffecbbe5fc283f144cd0cfcb3f41a33fa7576fa0a97768",
+  "updateUrl": "https://github.com/jsn-b/lumo/releases/download/v1.1.0/app-release.apk",
   "changelog": {
     "1": "Updated Config Screen",
-    "2": "Added custom name for sending reports"
+    "2": "Added custom name for sending reports",
+    "3": "Added monthly config reminders"
   }
 }
