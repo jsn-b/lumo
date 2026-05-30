@@ -5,7 +5,7 @@
   "graceDeadlineText": "31st May, 2026",
   "gracePeriodMillis": 0, 
   "sha256": "59992388ddfe067436a175f7fc8711fb372ec1dca9718b89c0ecb9dd2250645e",
-  "updateUrl": "https://github.com/jsn-b/lumo/releases/download/v1.0.0/lumo_release_1.0.0.apk",
+  "updateUrl": "https://github.com/jsn-b/lumo/releases/tag/v1.0.0/app-release.apk",
   "changelog": {
     "1": "Improved Update System"
   }
