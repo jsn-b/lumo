@@ -1,13 +1,12 @@
 {
-  "versionCode": 2,
-  "versionString": "1.0.1",
+  "versionCode": 3,
+  "versionString": "1.0.2",
   "releaseMonth": "May 2026",
   "graceDeadlineText": "31st May, 2026",
   "gracePeriodMillis": 0, 
-  "sha256": "0e29eef8ad4298a0b23bb43ce53106e88cbfdb3868fed538b544db67a5df7236",
-  "updateUrl": "https://github.com/jsn-b/lumo/releases/download/v1.0.1/lumo_release_1.0.1.apk",
+  "sha256": "33c9d0c6755d06652975027dea82e9a14e7edad5b94e810c443e3f8a149de64f",
+  "updateUrl": "https://github.com/jsn-b/lumo/releases/download/v1.0.2/lumo_release_1.0.2.apk",
   "changelog": {
-    "1": "Addressed inconsistencies in SO Metrics.",
-    "2": "Revamped UI"
+    "1": "Prevented infinite loop in update SDK."
   }
 }
