@@ -1,14 +1,16 @@
 {
-  "versionCode": 5,
-  "versionString": "1.1.0",
+  "versionCode": 6,
+  "versionString": "1.1.1",
   "releaseMonth": "May 2026",
   "graceDeadlineText": "31st May, 2026",
   "gracePeriodMillis": 0, 
-  "sha256": "22a6f36a9b96670cb1ffecbbe5fc283f144cd0cfcb3f41a33fa7576fa0a97768",
-  "updateUrl": "https://github.com/jsn-b/lumo/releases/download/v1.1.0/app-release.apk",
+  "sha256": "62e1067e918e10475cd320ea1ad6f50c68028127a4851dc580b6eecd2d87faa6",
+  "updateUrl": "https://github.com/jsn-b/lumo/releases/download/v1.1.1/app-release.apk",
   "changelog": {
-    "1": "Updated Config Screen",
-    "2": "Added custom name for sending reports",
-    "3": "Added monthly config reminders"
-  }
+  "1": "Entering records is now much quicker",
+  "2": "You can now see full POS names",
+  "3": "Deleted something by mistake? You can undo it",
+  "4": "Charts look smooth now",
+  "5": "Improved leave date visibility"
+}
 }
